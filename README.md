@@ -60,6 +60,5 @@ This project utilizes data from the WBSCoding School in CSV format, comprising n
 ## References
 - Tableau knowledge base
 - SQL documentation
-- Pandas documentation
 - Stack Overflow
 - WBS Coding School
